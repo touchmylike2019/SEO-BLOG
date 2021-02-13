@@ -1,0 +1,49 @@
+  
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;900&display=swap");
+
+* {
+    font-family: "Mulish", sans-serif;
+    box-sizing: border-box;
+}
+
+#nprogress .bar {
+    height: 5px !important;
+}
+
+.ql-editor {
+    min-height: 300px;
+}
+
+.featured-image {
+    width: 100%;
+    max-height: 500px;
+    object-fit: cover;
+}
+
+.nav {
+    height: 80px;
+    width: 100%;
+    padding: 20px 0;
+}
+
+.nav-item{
+    cursor: pointer;
+    margin: 0 20px;
+}
+.nav-link:hover {
+    color: #00c894 !important;
+  }
+
+.btnx {
+    padding: 10px 28px;
+    border-radius: 10px;
+    background-color: #d9fce7;
+    font-weight: normal;
+    color: #00c894 !important;
+}
+
+.btnx:hover {
+    background-color: #00c894;
+    color: #fff !important;
+}
+
